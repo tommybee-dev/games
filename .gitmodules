@@ -1,0 +1,33 @@
+[submodule "tomatoes"]
+	path = tomatoes
+	url = https://github.com/tommybee/tomatoes.git
+[submodule "teeworlds"]
+	path = teeworlds
+	url = https://github.com/tommybee/teeworlds.git
+[submodule "OpenTyrian"]
+	path = OpenTyrian
+	url = https://github.com/tommybee/OpenTyrian.git
+[submodule "mog"]
+	path = mog
+	url = https://github.com/tommybee/mog.git
+[submodule "BattleforWesnoth"]
+	path = BattleforWesnoth
+	url = https://github.com/tommybee/BattleforWesnoth.git
+[submodule "gigalomania"]
+	path = gigalomania
+	url = https://github.com/tommybee/gigalomania.git
+[submodule "freeserf"]
+	path = freeserf
+	url = https://github.com/tommybee/freeserf.git
+[submodule "crawl"]
+	path = crawl
+	url = https://github.com/tommybee/crawl.git
+[submodule "Airstrike"]
+	path = Airstrike
+	url = https://github.com/tommybee/Airstrike.git
+[submodule "abe-1.1"]
+	path = abe-1.1
+	url = https://github.com/tommybee/abe-1.1.git
+[submodule "zelda-series"]
+	path = zelda-series
+	url = https://github.com/tommybee/zelda-series.git
