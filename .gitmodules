@@ -31,3 +31,6 @@
 [submodule "zelda-series"]
 	path = zelda-series
 	url = https://github.com/tommybee/zelda-series.git
+[submodule "dark-oberon"]
+	path = dark-oberon
+	url = https://github.com/tommybee/dark-oberon.git
